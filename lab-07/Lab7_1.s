@@ -1,9 +1,9 @@
-	.data
+.data
 	.balign 4
-fifteen: .word 15
+	fifteen: .word 15
 
 	.balign 4
-thirty: .word 30
+	thirty: .word 30
 
 	.text
 	.global main
