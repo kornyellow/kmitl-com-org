@@ -1,0 +1,4 @@
+[ 1054.082800] [UFW BLOCK] IN=wlan0 OUT= MAC=01:00:5e:00:00:01:70:73:cb:be:d6:89:08:00 SRC=10.66.2.138 DST=224.0.0.1 LEN=44 TOS=0x00 PREC=0x00 TTL=1 ID=52024 PROTO=UDP SPT=50833 DPT=8612 LEN=24 
+[ 1057.642931] usb 1-1.2: USB disconnect, device number 6
+[ 1064.353149] usb 1-1.2: new full-speed USB device number 7 using dwc_otg
+[ 1064.500299] usb 1-1.2: New USB device found, idVendor=046d, idProduct=c53f, bcdDevice=44.01
